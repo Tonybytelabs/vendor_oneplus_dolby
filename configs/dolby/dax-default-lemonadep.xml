@@ -310,7 +310,7 @@
         <peak-value value="256"/>
         <surround-decoder-enable value="true"/>
         <surround-boost value="0"/>
-        <volmax-boost value="98"/>
+        <volmax-boost value="42"/>
         <volume-leveler-enable value="true"/>
         <volume-leveler-amount value="1"/>
         <volume-leveler-in-target value="-256"/>
